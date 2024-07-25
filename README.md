@@ -1,2 +1,2 @@
-# Task 2 Starter Repo
-Contains Everything you need to get started on task 2 of Forage's Wells Fargo software engineering program
+# Task 2 Data model
+Contains all data models in my version of ERD
